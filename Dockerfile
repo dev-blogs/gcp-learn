@@ -1,4 +1,4 @@
-from devblogs1/java-agent:1.0
+FROM devblogs1/java-agent:1.0
 
 RUN mkdir -p /usr/app
 WORKDIR /usr/app
